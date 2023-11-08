@@ -1,2 +1,0 @@
-1 : I'm learning Design Patterns
-3 : This will help me write better code
